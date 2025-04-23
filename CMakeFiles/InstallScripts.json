@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/users/jeldr/MlProject/build/cmake_install.cmake",
+		"C:/users/jeldr/MlProject/build/external/DataFrame/cmake_install.cmake",
+		"C:/users/jeldr/MlProject/build/external/json/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
